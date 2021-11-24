@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h1>hello from js<h1>'
+document.getElementById('main').innerHTML = '<h1>hello from js<h1>'
